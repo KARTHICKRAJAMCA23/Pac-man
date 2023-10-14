@@ -1,17 +1,18 @@
-BOUNCING BALL
 
-Description:
+PACMAN
 
-Elevate the animation by enabling user input for modifying the ball's movement, incorporating elements like keyboard and mouse controls, as well as introducing obstacles or targets to enhance interactivity.
+This HTML page features a Pac-Man animation moving horizontally within a container, controlled by JavaScript for direction, mouth animation, and boundary reversal, with a continuous animation loop triggered by setInterval every 100 milliseconds.
 
 How to run the code:
 
-Step1:Save the HTML file with a .html extension.
+step1:Save the HTML file with .html extension.
 
-Step2:Click the "Go Live" button to open a new browser window displaying the Bouncing_Ball animation.
+step2:Click the "Go Live" button.A new browser window will open, displaying Pacman animation.
 
-Future improvement:
+Future Improvemennt:
 
-consider integrating user interaction like click-and-drag functionality, customizable ball properties, and physics-based interactions, such as ball collisions, for a more engaging and interactive animation.
+consider adding obstacles or interactive elements within the container for Pac-Man to interact with, adding sound effects, or incorporating user controls for changing Pac-Man's direction and speed,enhancing the overall user experience.
+
+
 
   Link: https://karthickrajamca23.github.io/Pac-man/
